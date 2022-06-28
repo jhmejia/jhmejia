@@ -21,7 +21,7 @@ My favorite languages are Python, Java, Rust, and C!
 ---
 
 > [jhmejia.com](https://www.jhmejia.com) &nbsp;&middot;&nbsp;
-> GitHub [@jhmejia](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
+> GitHub [@jhmejia](https://github.com/jhmejia) &nbsp;&middot;&nbsp;
 > LinkedIn [@johnhenrymejia](https://linkedin.com/johnhenrymejia)
 
 
