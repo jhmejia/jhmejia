@@ -7,3 +7,21 @@
 </h1>
 
 
+## About me
+
+
+```
+About me:
+I'm a student at TCU, interested in Machine Learning, IoT, and cats.
+
+My favorite languages are Python, Java, Rust, and C!
+```
+
+
+---
+
+> [jhmejia.com](https://www.jhmejia.com) &nbsp;&middot;&nbsp;
+> GitHub [@jhmejia](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
+> LinkedIn [@johnhenrymejia](https://linkedin.com/johnhenrymejia)
+
+
