@@ -24,4 +24,4 @@ My favorite languages are Python, Java, Rust, and C!
 > GitHub [@jhmejia](https://github.com/jhmejia) &nbsp;&middot;&nbsp;
 > LinkedIn [@johnhenrymejia](https://linkedin.com/in/johnhenrymejia)
 
-
+[![jhmejia's github activity graph](https://activity-graph.herokuapp.com/graph?username=jhmejia&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
