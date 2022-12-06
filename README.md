@@ -20,8 +20,9 @@ My favorite languages are Python, Java, Rust, and C!
 ---
 
 
-[![jhmejia's github activity graph](https://activity-graph.herokuapp.com/graph?username=jhmejia&theme=github)](https://jhmejia.com)
+[![jhmejia's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jhmejia&theme=github)](https://jhmejia.com)
 ---
+
 
 > [jhmejia.com](https://www.jhmejia.com) &nbsp;&middot;&nbsp;
 > GitHub [@jhmejia](https://github.com/jhmejia) &nbsp;&middot;&nbsp;
