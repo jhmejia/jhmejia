@@ -26,6 +26,15 @@ My favorite languages are Python, Java, Rust, and C!
 ---
 
 
+- 🔭 I’m currently working on senior design
+- 🌱 I’m currently learning django and flask
+- 👯 I’m looking to collaborate on low level C projects
+- 💬 Ask me about anything
+- :zap: Fun Fact About Me: I can solve a Rubik's Cube quite quickly. I also have two cats!🐈🐈‍⬛
+
+
 > [jhmejia.com](https://www.jhmejia.com) &nbsp;&middot;&nbsp;
 > GitHub [@jhmejia](https://github.com/jhmejia) &nbsp;&middot;&nbsp;
 > LinkedIn [@johnhenrymejia](https://linkedin.com/in/johnhenrymejia)
+> Blog [@linkingtomorrow](https://linkingtomorrow.blogspot.com/)
+
