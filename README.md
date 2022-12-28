@@ -35,6 +35,6 @@ My favorite languages are Python, Java, Rust, and C!
 
 > [jhmejia.com](https://www.jhmejia.com) &nbsp;&middot;&nbsp;
 > GitHub [@jhmejia](https://github.com/jhmejia) &nbsp;&middot;&nbsp;
-> LinkedIn [@johnhenrymejia](https://linkedin.com/in/johnhenrymejia)
-> Blog [@linkingtomorrow](https://linkingtomorrow.blogspot.com/)
+> LinkedIn [@johnhenrymejia](https://linkedin.com/in/johnhenrymejia) &nbsp;&middot;&nbsp;
+> Blog [Linking Tomorrow](https://linkingtomorrow.blogspot.com/)
 
