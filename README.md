@@ -26,7 +26,7 @@ My favorite languages are Python, Java, Rust, and C!
 ---
 
 
-- 🔭 I’m currently working on senior design
+- 🔭 I’m currently working on research over Go software
 - 🌱 I’m currently learning django and flask
 - 👯 I’m looking to collaborate on low level C projects
 - 💬 Ask me about anything
