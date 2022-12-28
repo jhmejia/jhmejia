@@ -32,10 +32,9 @@ My favorite languages are Python, Java, Rust, and C!
 - 💬 Ask me about anything
 - :zap: Fun Fact About Me: I can solve a Rubik's Cube quite quickly. I also have two cats!🐈🐈‍⬛
 
-[![-----------------------------------------------------](
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png)](https://github.com/jhmejia?tab=repositories)
 > [jhmejia.com](https://www.jhmejia.com) &nbsp;&middot;&nbsp;
 > GitHub [@jhmejia](https://github.com/jhmejia) &nbsp;&middot;&nbsp;
 > LinkedIn [@johnhenrymejia](https://linkedin.com/in/johnhenrymejia) &nbsp;&middot;&nbsp;
 > Blog [Linking Tomorrow](https://linkingtomorrow.blogspot.com/)
-)
 
