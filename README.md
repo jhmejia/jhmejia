@@ -22,12 +22,15 @@ My favorite languages are Python, Java, Rust, and C!
 
 [![jhmejia's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jhmejia&theme=github)](https://jhmejia.com)
 
-[![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=jhmejia&theme=github)](https://jhmejia.com/)
+<p align="center">
+    <a href="https://jhmejia.com/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jhmejia&theme=github-dark-blue"/></a>
+</p>
+
 ---
 
 
-- 🔭 I’m currently working on research over Go software
-- 🌱 I’m currently learning django and flask
+- 🔭 I’m currently working on research over [COCO image Captioning](https://cocodataset.org)
+- 🌱 I’m currently learning C# and Flask
 - 👯 I’m looking to collaborate on low level C projects
 - 💬 Ask me about anything
 - :zap: Fun Fact About Me: I can solve a Rubik's Cube quite quickly. I also have two cats!🐈🐈‍⬛
