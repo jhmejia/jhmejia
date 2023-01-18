@@ -22,6 +22,8 @@ My favorite languages are Python, Java, Rust, and C!
 
 [![jhmejia's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jhmejia&theme=github)](https://jhmejia.com)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jhmejia&theme=github-dark-blue)](https://git.io/streak-stats)
+
 <p align="center">
     <a href="https://jhmejia.com/"><img src="https://streak-stats.demolab.com/?user=jhmejia&theme=github-dark-blue"/></a>
 </p>
