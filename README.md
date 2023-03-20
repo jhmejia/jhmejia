@@ -31,7 +31,7 @@ My favorite languages are Python, Java, Rust, and C!
 
 
 - 🔭 I’m currently working on research over [COCO image Captioning](https://cocodataset.org)
-- 🌱 I’m currently learning C# and Flask
+- 🌱 I’m currently learning C# and Spring
 - 👯 I’m looking to collaborate on low level C projects
 - 💬 Ask me about anything
 - :zap: Fun Fact About Me: I can solve a Rubik's Cube quite quickly. I also have two cats!🐈🐈‍⬛
