@@ -14,7 +14,7 @@
 About me:
 I'm a student at TCU, interested in Machine Learning, IoT, and cats.
 
-My favorite languages are Python, Java, Rust, and C!
+My favorite languages are Python, Java, and C!
 ```
 
 ---
@@ -26,6 +26,8 @@ My favorite languages are Python, Java, Rust, and C!
 <p align="center">
     <a href="https://jhmejia.com/"><img src="https://streak-stats.demolab.com/?user=jhmejia&theme=github-dark-blue"/></a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhmejia)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
