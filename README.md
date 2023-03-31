@@ -27,7 +27,7 @@ My favorite languages are Python, Java, and C!
     <a href="https://jhmejia.com/"><img src="https://streak-stats.demolab.com/?user=jhmejia&theme=github-dark-blue"/></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhmejia)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
