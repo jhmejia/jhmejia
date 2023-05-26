@@ -22,7 +22,7 @@ I am currently interning at Atlassian
 ---
 
 
-[![jhmejia's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jhmejia&theme=github)](https://jhmejia.com)
+[![jhmejia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jhmejia&theme=github)](https://jhmejia.com)
 
 
 <p align="center">
