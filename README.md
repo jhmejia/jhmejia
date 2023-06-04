@@ -12,7 +12,7 @@
 
 ```
 About me:
-I'm a student at TCU, interested in Machine Learning, IoT, and cats.
+I'm a student at TCU, interested in Machine Learning, IoT, DevOps, and cats.
 
 My favorite languages are Python, Java, and C!
 
