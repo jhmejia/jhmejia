@@ -31,6 +31,9 @@ Read more about my internship at Atlassian [here](https://tcu.box.com/v/jhmejiai
 
 
 
+[![jhmejia's github trophy graph](https://github-profile-trophy.vercel.app/?username=jhmejia&theme=tokyonight)](https://jhmejia.com)
+
+
 ---
 
 
