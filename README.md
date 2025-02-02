@@ -11,10 +11,7 @@
 
 
 ```
-About me:
-I'm a student at TCU, interested in Machine Learning, IoT, DevOps, and cats.
-
-My favorite languages are Python, Java, and C!
+Systems Engineer @ Lockheed Martin 
 ```
 
 Read more about my internship at Atlassian [here](https://tcu.box.com/v/jhmejiainternship)
