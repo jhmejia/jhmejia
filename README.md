@@ -14,31 +14,7 @@
 Systems Engineer @ Lockheed Martin 
 ```
 
-Read more about my internship at Atlassian [here](https://tcu.box.com/v/jhmejiainternship)
 
----
-
-
-[![jhmejia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jhmejia&theme=github)](https://jhmejia.com)
-
-
-<p align="center">
-    <a href="https://jhmejia.com/"><img src="https://streak-stats.demolab.com/?user=jhmejia&theme=github-dark-blue"/></a>
-</p>
-
-
-
-[![jhmejia's github trophy graph](https://github-profile-trophy.vercel.app/?username=jhmejia&theme=tokyonight)](https://jhmejia.com)
-
-
----
-
-
-- 🔭 I’m currently working on research over [COCO image Captioning](https://cocodataset.org)
-- 🌱 I’m currently learning C# and Spring
-- 👯 I’m looking to collaborate on low level C projects
-- 💬 Ask me about anything
-- :zap: Fun Fact About Me: I can solve a Rubik's Cube quite quickly. I also have two cats!🐈🐈‍⬛
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png)](https://github.com/jhmejia?tab=repositories)
 > [jhmejia.com](https://www.jhmejia.com) &nbsp;&middot;&nbsp;
